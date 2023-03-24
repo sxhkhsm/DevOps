@@ -77,7 +77,7 @@ You should see an image with a random repository name and tag.
 ## Run the image
 To run the image, you can use the docker run command. Run the following command to start a container from the image:
 
-  docker run {repository-name}:{tag}
+    docker run {repository-name}:{tag}
 
 Replace {repository-name} and {tag} with the values from the docker images command.
 
