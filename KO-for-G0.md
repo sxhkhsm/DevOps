@@ -1,9 +1,11 @@
 # Containerize GO Application Using KO
 Are you a Kubernetes manifest? Because you make my heart skip a beat like KO makes containerization easy.
+
 ![image](https://user-images.githubusercontent.com/74543712/227612763-58901708-605e-4d6c-a826-f4ac755bcf17.png)
 
 ## Golang
 Golang, also known as Go, is a popular programming language known for its simplicity, concurrency, and high performance. It was developed by Google in 2007 and has since gained a significant following, particularly in developing backend services, network programming, and cloud-native applications.
+
 ![image](https://user-images.githubusercontent.com/74543712/227612840-988bf23b-2451-47b5-adec-ac5c747a0d21.png)
 
 
